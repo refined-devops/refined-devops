@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @refined-devops
+- 👀 I’m interested in Networks and Devops (Azure,AWS,GCP)
+- 🌱 I’m currently working in Cyber Security Domain.
+- 💞️ I’m looking to collaborate on devops & cybersecurity.
+- 📫 You can reach me through at zeeshan.khaliq@cydea.tech
